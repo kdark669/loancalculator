@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edd453ad-dd14-4302-a61e-d4d15cef2c86" name="Default Changelist" comment="" />
+    <list default="true" id="edd453ad-dd14-4302-a61e-d4d15cef2c86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loancalculator/numberguesser/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loancalculator/numberguesser/index.html" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +18,14 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QshG1oQvc3lAa84vuT8yQbB4DP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/course/[FreeTutorials.Us] Udemy - modern-javascript-from-the-beginning/02 JavaScript Language Fundamentals/2_17_project_files/js_sandbox" />
+    <property name="last_opened_file_path" value="F:/webdevelopment/xampp/htdocs/www/demo_practise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -43,10 +52,26 @@
       <option name="presentableId" value="Default" />
       <updated>1568565111403</updated>
       <workItem from="1568565112966" duration="56000" />
+      <workItem from="1569296693927" duration="26000" />
+      <workItem from="1569296751999" duration="461000" />
+      <workItem from="1569307278330" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -81,14 +81,27 @@
 // document.body.innerHtml = html
 // 
 
-const person = new Date();
-console.log(person);
+// const person = new Date();
+// console.log(person);
+//
+// const object = {
+// 	name:'john',
+// 	number: 9860116323,
+// }
+// for( i=1 ; i<10 ;i++){
+// var fullname = object.name;
+// console.log(fullname);
+// }
 
-const object = {
-	name:'john',
-	number: 9860116323,
+// Es 6 class
+class Car{
+	constructor(name, speed){
+		this.name = name;
+		this.speed = speed;
+	}
+	engine(){
+		console.log(this.name + `${this.speed}`);
+	}
 }
-for( i=1 ; i<10 ;i++){
-var fullname = object.name;
-console.log(fullname);
-}
+let ferrari = new Car('ferrari458gtb','100km/sec');
+ferrari.engine();
